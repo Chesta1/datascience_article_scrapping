@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='python_package',
+    name='datascraping_article',
     version='0.1',
     packages=find_packages(),
     install_requires=[
